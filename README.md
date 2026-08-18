@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0139-word-break) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/kooshant/DSA-Practice-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
 | ------- |
 | [0139-word-break](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0139-word-break) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/kooshant/DSA-Practice-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
 | ------- |
