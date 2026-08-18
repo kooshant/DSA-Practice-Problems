@@ -29,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0139-word-break) |
+## Math
+|  |
+| ------- |
+| [0728-self-dividing-numbers](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0728-self-dividing-numbers) |
 <!---LeetCode Topics End-->
