@@ -34,5 +34,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0007-reverse-integer) |
 | [0728-self-dividing-numbers](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0728-self-dividing-numbers) |
 <!---LeetCode Topics End-->
