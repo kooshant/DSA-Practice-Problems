@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0035-search-insert-position) |
 | [0139-word-break](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0139-word-break) |
 | [0724-find-pivot-index](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0724-find-pivot-index) |
 | [1386-cinema-seat-allocation](https://github.com/kooshant/DSA-Practice-Problems/tree/master/1386-cinema-seat-allocation) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/kooshant/DSA-Practice-Problems/tree/master/1386-cinema-seat-allocation) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
