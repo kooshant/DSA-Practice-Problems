@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0139-word-break) |
+| [0724-find-pivot-index](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0724-find-pivot-index) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kooshant/DSA-Practice-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0007-reverse-integer) |
 | [0728-self-dividing-numbers](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0728-self-dividing-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
