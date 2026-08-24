@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0137-single-number-ii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0152-maximum-product-subarray) |
+| [0260-single-number-iii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0260-single-number-iii) |
 | [0724-find-pivot-index](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0724-find-pivot-index) |
 | [1386-cinema-seat-allocation](https://github.com/kooshant/DSA-Practice-Problems/tree/master/1386-cinema-seat-allocation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kooshant/DSA-Practice-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0260-single-number-iii) |
 | [1386-cinema-seat-allocation](https://github.com/kooshant/DSA-Practice-Problems/tree/master/1386-cinema-seat-allocation) |
 ## Binary Search
 |  |
