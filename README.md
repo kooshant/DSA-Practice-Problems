@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0205-isomorphic-strings) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0152-maximum-product-subarray) |
 | [1872-stone-game-viii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/1872-stone-game-viii) |
@@ -97,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/1872-stone-game-viii) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
