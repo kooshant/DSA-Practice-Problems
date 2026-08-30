@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0035-search-insert-position) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0152-maximum-product-subarray) |
@@ -107,4 +108,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0032-longest-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
