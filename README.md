@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0205-isomorphic-strings) |
+| [0680-valid-palindrome-ii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0680-valid-palindrome-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kooshant/DSA-Practice-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0680-valid-palindrome-ii) |
 | [1386-cinema-seat-allocation](https://github.com/kooshant/DSA-Practice-Problems/tree/master/1386-cinema-seat-allocation) |
 ## Bit Manipulation
 |  |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0112-path-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
