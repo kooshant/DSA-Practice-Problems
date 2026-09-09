@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0205-isomorphic-strings) |
 | [1386-cinema-seat-allocation](https://github.com/kooshant/DSA-Practice-Problems/tree/master/1386-cinema-seat-allocation) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0139-word-break) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0067-add-binary) |
 | [0728-self-dividing-numbers](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0728-self-dividing-numbers) |
 | [1872-stone-game-viii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/1872-stone-game-viii) |
