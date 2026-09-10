@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0205-isomorphic-strings) |
+| [0443-string-compression](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0680-valid-palindrome-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kooshant/DSA-Practice-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0086-partition-list) |
+| [0443-string-compression](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0680-valid-palindrome-ii) |
 ## Linked List
 |  |
