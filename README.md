@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0383-ransom-note) |
 | [1386-cinema-seat-allocation](https://github.com/kooshant/DSA-Practice-Problems/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kooshant/DSA-Practice-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kooshant/DSA-Practice-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0680-valid-palindrome-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kooshant/DSA-Practice-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0206-reverse-linked-list) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
