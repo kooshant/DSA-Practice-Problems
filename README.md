@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0139-word-break](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0383-ransom-note) |
+| [0415-add-strings](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0680-valid-palindrome-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kooshant/DSA-Practice-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0728-self-dividing-numbers) |
 | [1872-stone-game-viii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/1872-stone-game-viii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kooshant/DSA-Practice-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0415-add-strings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kooshant/DSA-Practice-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sliding Window
 |  |
