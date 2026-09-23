@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0051-n-queens) |
 ## Algorithm X
 |  |
