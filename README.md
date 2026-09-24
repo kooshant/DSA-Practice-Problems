@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0260-single-number-iii) |
+| [0500-keyboard-row](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0500-keyboard-row) |
 | [0724-find-pivot-index](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0724-find-pivot-index) |
 | [1386-cinema-seat-allocation](https://github.com/kooshant/DSA-Practice-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/1872-stone-game-viii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0383-ransom-note) |
+| [0500-keyboard-row](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0500-keyboard-row) |
 | [1386-cinema-seat-allocation](https://github.com/kooshant/DSA-Practice-Problems/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kooshant/DSA-Practice-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kooshant/DSA-Practice-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0443-string-compression) |
+| [0500-keyboard-row](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0680-valid-palindrome-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kooshant/DSA-Practice-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
