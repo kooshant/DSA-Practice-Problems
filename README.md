@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
@@ -154,11 +155,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
