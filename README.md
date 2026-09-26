@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0260-single-number-iii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0260-single-number-iii) |
 | [0500-keyboard-row](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0500-keyboard-row) |
 | [0724-find-pivot-index](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0735-asteroid-collision) |
 | [1386-cinema-seat-allocation](https://github.com/kooshant/DSA-Practice-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/1872-stone-game-viii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kooshant/DSA-Practice-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0415-add-strings) |
+| [0735-asteroid-collision](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0735-asteroid-collision) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kooshant/DSA-Practice-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sliding Window
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0735-asteroid-collision](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0735-asteroid-collision) |
 ## Bracket Sequences
 |  |
 | ------- |
