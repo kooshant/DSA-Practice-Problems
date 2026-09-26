@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0137-single-number-ii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0260-single-number-iii) |
 | [0500-keyboard-row](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0500-keyboard-row) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0198-house-robber) |
 | [1872-stone-game-viii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/1872-stone-game-viii) |
 ## Trie
 |  |
