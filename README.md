@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0039-combination-sum) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0205-isomorphic-strings) |
