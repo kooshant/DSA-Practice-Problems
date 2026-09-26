@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0139-word-break](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0260-single-number-iii) |
 | [0500-keyboard-row](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0500-keyboard-row) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0500-keyboard-row) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
