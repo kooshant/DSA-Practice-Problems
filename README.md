@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0500-keyboard-row) |
 | [1386-cinema-seat-allocation](https://github.com/kooshant/DSA-Practice-Problems/tree/master/1386-cinema-seat-allocation) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0443-string-compression) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0217-contains-duplicate](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0242-valid-anagram) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
