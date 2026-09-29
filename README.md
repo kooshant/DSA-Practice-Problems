@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0242-valid-anagram) |
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0051-n-queens) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
