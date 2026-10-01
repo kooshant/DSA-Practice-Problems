@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0771-jewels-and-stones) |
 | [1386-cinema-seat-allocation](https://github.com/kooshant/DSA-Practice-Problems/tree/master/1386-cinema-seat-allocation) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0500-keyboard-row) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0229-majority-element-ii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -241,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0056-merge-intervals) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
