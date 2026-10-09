@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0260-single-number-iii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0500-keyboard-row](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0500-keyboard-row) |
+| [0643-maximum-average-subarray-i](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0735-asteroid-collision) |
 | [1386-cinema-seat-allocation](https://github.com/kooshant/DSA-Practice-Problems/tree/master/1386-cinema-seat-allocation) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kooshant/DSA-Practice-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Minimax
 |  |
