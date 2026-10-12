@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0500-keyboard-row](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0500-keyboard-row) |
 | [0643-maximum-average-subarray-i](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0724-find-pivot-index) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0500-keyboard-row) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -261,10 +266,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -273,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0287-find-the-duplicate-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
