@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0260-single-number-iii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0500-keyboard-row) |
 | [0643-maximum-average-subarray-i](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0724-find-pivot-index) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0771-jewels-and-stones) |
 | [1386-cinema-seat-allocation](https://github.com/kooshant/DSA-Practice-Problems/tree/master/1386-cinema-seat-allocation) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kooshant/DSA-Practice-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
